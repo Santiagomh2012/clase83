@@ -1,0 +1,14 @@
+.bg{
+    background-image:url() ;
+    background-position:center ;
+background-size: cover;
+
+}
+h1{color: red;
+font-size: 40px;}
+
+#micanvas{border-width: 10px;
+border-style:ridge ;
+
+
+}
